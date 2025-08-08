@@ -1,0 +1,380 @@
+/*
+
+Website: 90 viewport width, gecentreerd (!)
+
+Relatieve meeteenheden: vw / vh of %
+Absolute meeteenheden: rem (!)
+
+Secties: tussen de verschillende secties zorg je telkens voor 15 vh margin
+
+Paragrafen: Open Sans, regular (400), 1.8rem, 1.5 regelafstand
+Titels: Abril Fatface, regular (400)
+h1: 7rem
+h2: 5rem
+h3: 2.5rem
+
+Kleuren: 
+Donkerroos: #e7304b
+Grijs: #F2F0F0
+
+*/
+body {
+background-color: #FBF2A3;
+background-image: url(../images/Untitled_Artwork-1.png);
+background-size:auto;
+}
+
+body p {
+color: #FBF2A3;
+font-size: large;
+}
+
+body {
+  margin: 0;
+  background-color: #FBF2A3;
+  font-family: Arial, sans-serif;
+  color: #793f19;
+  background-image: url(../images/Untitled_Artwork-1.png);
+  background-size:auto;
+}
+
+.navbar {
+  background-color: #793f19;
+  color: #ffee99;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 50px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+  gap: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #FBF2A3;
+}
+
+body p {
+color: #FBF2A3;
+font-size: large;
+}
+.swiper-wrapper img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.swiper p{
+    color: #FBF2A3;
+    background-color: #793f19;
+    padding: 15px;
+    border-radius: 10px;
+    margin-right: 300px;
+    margin-left: 300px;
+    font-size: 25px ;
+}
+
+.swiper-button-prev {
+    color: #793f19;
+    text-decoration: none;
+    margin-left: 200px;
+}
+
+.swiper-button-next {
+    color: #793f19;
+    text-decoration: none;
+    margin-right: 200px;
+}
+
+body {
+  margin: 0;
+  background-color: #ffee99;
+  font-family: Arial, sans-serif;
+  color: #793f19;
+}
+
+#werk {
+    background-image: none;
+}
+
+.navbar {
+  background-color: #793f19;
+  color: #ffee99;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 50px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+  gap: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #FBF2A3;
+}
+
+#Gridwerk h3 {
+    font-size: 25px;
+    color: #793f19;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 70px;
+    font-family: Arial, sans-serif;
+}
+
+#Gridprojecten h3 {
+    font-size: 25px;
+    color: #793f19;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 70px;
+    font-family: Arial, sans-serif;
+}
+
+.Explore a{
+    color: #793f19;
+}
+
+.intro-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px; /* ruimte tussen items */
+  padding: 40px;
+  flex-wrap: wrap; /* zorgt dat het op mobiel onder elkaar valt */
+}
+
+.text-left, .text-right {
+  max-width: 300px;
+  font-size: 25px;
+  color: #793f19;
+}
+
+.text-left {
+    margin-top: -50px;
+}
+
+.text-right {
+     margin-top: 400px;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+#Charachteristics H1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#Skills H1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 120px;
+}
+
+#Categories h2 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 120px;
+    background-color: #793f19;
+    border-radius: 10px;
+    max-width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 40px;
+}
+.Titel H1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 30px;
+    color: #793f19;
+    background-color: none;
+}
+
+.ai {
+    margin-bottom: 50px
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+h2 b{
+    font-weight: 700;
+}
+
+.avatar img {
+   align-items: center;
+   padding-right: 30px;
+}
+
+.nav-right {
+  display: flex;
+  gap: 20px;
+}
+
+.intro-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 40px;
+  flex-wrap: wrap;
+}
+
+#grid {
+    display: flex;
+    flex-direction: row;
+    row-gap: 20px;
+}
+.app {
+    margin-top: 450px;
+}
+
+.derdefoto {
+    margin-top: 60px;
+}
+
+#contact {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#box img {
+    margin-top: 40px;
+    margin-left: 175px;
+}
+
+#box h3{
+    font-size: 35px;
+    color: #FBF2A3;
+    background-color: #793f19;
+    border-radius: 10px;
+    margin-left: 600px;
+    margin-right: 300px;
+    margin-top: -650px;
+    padding: 40px;
+    padding-left: 120px;
+}
+
+
+@media screen and (min-width: 768px) {
+    .navigation {
+        display: flex;
+        flex-direction: row;
+        gap: 1.5rem;
+        font-family: "Open Sans", serif;
+        font-weight: 400;
+        font-size: 1.8rem;
+        line-height: 1.5;
+    }
+
+    #active {
+        color: #e7304b;
+        text-decoration: underline;
+    }
+
+    .navigation a {
+        text-decoration: none;
+        color: black;
+    }
+
+    #mobile {
+        display: none;
+    }
+
+    #mobile img {
+        display: none;
+    }
+
+    #hero {
+        height: 100vh;
+    }
+
+    .package-grid {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 2rem;
+    }
+
+    .package-item {
+        margin-bottom: 5rem;
+        background-color: #F2F0F0;
+        border-radius: 3rem;
+        width: 40rem;
+    }
+    
+    .package-item img {
+        width: 40rem;
+        height: 30rem;
+        align-self: center;
+        border-top-left-radius: 3rem;
+        border-top-right-radius: 3rem;
+        margin-bottom: 3vh;
+    }
+
+    .photo-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        grid-template-areas: 
+        "a a b c"
+        "a a d e"
+        "f f f e";
+        height: 200vh;
+        gap: 1.5rem;
+        margin-bottom: 5rem;
+    }
+
+    .photo-item-1 {
+        grid-area: a;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .photo-item-2 {
+        grid-area: b;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .photo-item-3 {
+        grid-area: c;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .photo-item-4 {
+        grid-area: d;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .photo-item-5 {
+        grid-area: e;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .photo-item-6 {
+        grid-area: f;
+        background-size: cover;
+        background-position: center;
+    }
+}
+    
+
+
+
+
+
