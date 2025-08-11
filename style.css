@@ -249,5 +249,15 @@ h2 b{
     border-width: 10px;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (max-width: 768px) {
+   .navbar {
+        font-size: 25px;
+        gap: 35px;
+    }
+
+    .logo {
+        margin-left: -20px;
+    }
+  
+}
    
