@@ -241,6 +241,13 @@ h2 b{
     padding-left: 120px;
 }
 
+#Categories a :hover {
+    background-color: #FBF2A3;
+    color: #793f19;
+    border: #793f19;
+    border-style: dashed;
+    border-width: 10px;
+}
 
 @media screen and (min-width: 768px) {
    
