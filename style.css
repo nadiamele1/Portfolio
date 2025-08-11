@@ -249,7 +249,7 @@ h2 b{
     border-width: 10px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 480px) {
    .navbar {
         font-size: 25px;
         gap: 35px;
