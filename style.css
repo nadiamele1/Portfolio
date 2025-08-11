@@ -34,11 +34,13 @@ body p {
 color: #FBF2A3;
 font-size: large;
 }
+
 .swiper-wrapper img {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 .swiper p{
     color: #FBF2A3;
     background-color: #793f19;
@@ -176,7 +178,7 @@ h1 {
 }
 
 .ai {
-    margin-bottom: 50px
+    margin-bottom: 50px;
 }
 
 h2 {
