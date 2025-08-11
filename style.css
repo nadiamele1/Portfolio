@@ -165,6 +165,7 @@ h1 {
     margin-left: auto;
     padding: 40px;
 }
+
 .Titel H1 {
     font-family: 'Permanent Marker', cursive;
     font-size: 80px;
@@ -249,7 +250,7 @@ h2 b{
     border-width: 10px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 390px) {
    .navbar {
         font-size: 25px;
         gap: 35px;
