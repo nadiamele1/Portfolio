@@ -258,6 +258,42 @@ h2 b{
     .logo {
         margin-left: -20px;
     }
+
+  .avatar img {
+    width: 290px;
+    height: auto;
+    margin-left: -50px;
+    margin-right: 5px;
+   }
+   .intro-container {
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 50px;
+   }
+
+.text-left, .text-right {
+  max-width: 125px;
+  color: #793f19;
+}
+
+.text-left {
+    margin-left: -70px;
+}
+
+.text-right {
+    margin-top: -150px;
+    margin-left: 240px;
+    max-width: 150px;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 18px;
+}
   
 }
    
