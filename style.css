@@ -334,5 +334,13 @@ h2 b{
   .app img {
     margin-top: -100px;
   }
+
+  #Categories H1 {
+    font-size: 50px;
+  }
+  
+  #Categories h2 {
+    font-size: 30px;
+  }
 }
    
