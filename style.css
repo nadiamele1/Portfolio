@@ -363,4 +363,14 @@ h2 b{
     padding-top: 65px;
   }
 }
+
+@media screen and (max-width: 390px) {
+    .navbar {
+        font-size: 15px;
+        gap: 20px;
+    }
+
+    .logo {
+        margin-left: -5px;
+    }
    
