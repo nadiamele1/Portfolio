@@ -369,8 +369,8 @@ h2 {
 }
 
 #Charachteristics H1 {
-    font-size: 40px;
-    margin-left: 150px;
+    font-size: 50px;
+    margin: auto;
 }
 
 .swiper img {
@@ -408,7 +408,7 @@ h2 {
 
 #Categories H1 {
     font-size: 50px;
-    margin-left: 20px;
+    margin: auto;
 }
 
 #Categories h2 {
@@ -484,18 +484,18 @@ h3 {
 }
 
 #Charachteristics-nd H1 {
-    font-size: 40px;
-    margin-left: 150px;
+    font-size: 50px;
+    margin: auto;
 }
 
 #Skills-nd H1 {
     font-size: 50px;
-    margin-left: 60px;
+    margin: auto;
 }
 
 #Categories-nd H1 {
     font-size: 50px;
-    margin-left: 100px;
+    margin: auto;
 }
 
 #Categories-nd h2 {
