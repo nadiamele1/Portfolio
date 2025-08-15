@@ -336,7 +336,7 @@ h3 {
     width: 290px;
     height: auto;
     margin-left: -50px;
-    margin-right: 50px;
+    margin-right: 5px;
 }
 .intro-container {
     justify-content: center;
@@ -355,7 +355,7 @@ h3 {
 
 .text-right {
     margin-top: -150px;
-    margin-left: 240px;
+    margin-left: 250px;
     max-width: 150px;
 }
 
