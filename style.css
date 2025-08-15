@@ -252,6 +252,76 @@ h2 b{
     border-width: 10px;
 }
 
+/* nederlandse versie*/
+
+.navbar-nd {
+  background-color: #793f19;
+  color: #ffee99;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 50px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+  gap: 50px;
+}
+
+.Explore-nd a{
+    color: #793f19;
+}
+
+.avatar-nd img {
+   margin: auto;
+}
+
+.intro-section-nd {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 40px;
+  flex-wrap: wrap;
+}
+
+.intro-container-nd {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px; /* ruimte tussen items */
+  padding: 40px;
+  flex-wrap: wrap; /* zorgt dat het op mobiel onder elkaar valt */
+}
+
+.text-left-nd, .text-right-nd {
+  max-width: 300px;
+  font-size: 25px;
+  color: #793f19;
+}
+
+.text-left-nd {
+    margin-top: -70px;
+}
+
+.text-right-nd {
+     margin-top: 400px;
+     margin-left: -40px;
+}
+
+#Charachteristics-nd H1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#Skills-nd H1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 120px;
+    margin-left: 70px;
+}
+
+
 @media screen and (max-width: 768px) {
     .navbar {
         font-size: 25px;
