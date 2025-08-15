@@ -82,7 +82,7 @@ a {
 }
 
 .text-left {
-    margin-top: -50px;
+    margin-top: -0px;
 }
 
 .text-right {
@@ -357,7 +357,7 @@ h3 {
 }
 
 .text-left {
-    margin-left: 50px;
+    margin-left: -70px;
 }
 
 .text-right {
