@@ -1,9 +1,7 @@
-
 body p {
 color: #FBF2A3;
 font-size: large;
 }
-
 body {
   margin: 0;
   background-color: #FBF2A3;
@@ -12,7 +10,6 @@ body {
   background-image: url("./images/Untitled_Artwork-1.png");
   background-size: auto;
 }
-
 .navbar {
   background-color: #793f19;
   color: #ffee99;
@@ -24,23 +21,19 @@ body {
   font-size: 50px;
   gap: 50px;
 }
-
 a {
     text-decoration: none;
     color: #FBF2A3;
 }
-
 body p {
 color: #FBF2A3;
 font-size: large;
 }
-
 .swiper-wrapper img {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-
 .swiper p{
     color: #FBF2A3;
     background-color: #793f19;
@@ -50,30 +43,25 @@ font-size: large;
     margin-left: 300px;
     font-size: 25px ;
 }
-
 .swiper-button-prev {
     color: #793f19;
     text-decoration: none;
     margin-left: 200px;
 }
-
 .swiper-button-next {
     color: #793f19;
     text-decoration: none;
     margin-right: 200px;
 }
-
 body {
   margin: 0;
   background-color: #ffee99;
   font-family: Arial, sans-serif;
   color: #793f19;
 }
-
 #werk {
     background-image: none;
 }
-
 .navbar {
   background-color: #793f19;
   color: #ffee99;
@@ -85,12 +73,10 @@ body {
   font-size: 50px;
   gap: 50px;
 }
-
 a {
     text-decoration: none;
     color: #FBF2A3;
 }
-
 #Gridwerk h3 {
     font-size: 25px;
     color: #793f19;
@@ -99,7 +85,6 @@ a {
     margin-top: 70px;
     font-family: Arial, sans-serif;
 }
-
 #Gridprojecten h3 {
     font-size: 25px;
     color: #793f19;
@@ -108,11 +93,9 @@ a {
     margin-top: 70px;
     font-family: Arial, sans-serif;
 }
-
 .Explore a{
     color: #793f19;
 }
-
 .intro-container {
   display: flex;
   justify-content: center;
@@ -121,40 +104,33 @@ a {
   padding: 40px;
   flex-wrap: wrap; /* zorgt dat het op mobiel onder elkaar valt */
 }
-
 .text-left, .text-right {
   max-width: 300px;
   font-size: 25px;
   color: #793f19;
 }
-
 .text-left {
     margin-top: -50px;
 }
-
 .text-right {
      margin-top: 400px;
 }
-
 h1 {
     font-size: 70px;
     font-weight: 700;
 }
-
 #Charachteristics H1 {
     font-family: 'Permanent Marker', cursive;
     font-size: 80px;
     text-align: center;
     margin-top: 40px;
 }
-
 #Skills H1 {
     font-family: 'Permanent Marker', cursive;
     font-size: 80px;
     text-align: center;
     margin-top: 120px;
 }
-
 #Categories h2 {
     font-family: 'Permanent Marker', cursive;
     font-size: 60px;
@@ -167,7 +143,6 @@ h1 {
     margin-left: auto;
     padding: 40px;
 }
-
 .Titel H1 {
     font-family: 'Permanent Marker', cursive;
     font-size: 80px;
@@ -176,16 +151,13 @@ h1 {
     color: #793f19;
     background-color: none;
 }
-
 .ai {
     margin-bottom: 50px;
 }
-
 h2 {
     font-size: 25px;
     font-weight: 400;
 }
-
 h2 b{
     font-weight: 700;
 }
@@ -194,12 +166,10 @@ h2 b{
    align-items: center;
    padding-right: 30px;
 }
-
 .nav-right {
   display: flex;
   gap: 20px;
 }
-
 .intro-section {
   display: flex;
   justify-content: space-around;
@@ -207,7 +177,6 @@ h2 b{
   padding: 40px;
   flex-wrap: wrap;
 }
-
 #grid {
     display: flex;
     flex-direction: row;
@@ -216,22 +185,18 @@ h2 b{
 .app {
     margin-top: 450px;
 }
-
 .derdefoto {
     margin-top: 60px;
 }
-
 #contact {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
-
 #box img {
     margin-top: 40px;
     margin-left: 175px;
 }
-
 #box h3{
     font-size: 35px;
     color: #FBF2A3;
@@ -243,7 +208,6 @@ h2 b{
     padding: 40px;
     padding-left: 120px;
 }
-
 #Categories a :hover {
     background-color: #FBF2A3;
     color: #793f19;
@@ -251,16 +215,13 @@ h2 b{
     border-style: dashed;
     border-width: 10px;
 }
-
 /* nederlandse versie*/
 .Explore-nd a{
     color: #793f19;
 }
-
 .avatar-nd img {
    margin: auto;
 }
-
 .intro-section-nd {
   display: flex;
   justify-content: space-around;
@@ -268,7 +229,6 @@ h2 b{
   padding: 40px;
   flex-wrap: wrap;
 }
-
 .intro-container-nd {
   display: flex;
   justify-content: center;
@@ -277,29 +237,24 @@ h2 b{
   padding: 40px;
   flex-wrap: wrap; /* zorgt dat het op mobiel onder elkaar valt */
 }
-
 .text-left-nd, .text-right-nd {
   max-width: 300px;
   font-size: 25px;
   color: #793f19;
 }
-
 .text-left-nd {
     margin-top: -70px;
 }
-
 .text-right-nd {
      margin-top: 400px;
      margin-left: -40px;
 }
-
 #Charachteristics-nd H1 {
     font-family: 'Permanent Marker', cursive;
     font-size: 80px;
     text-align: center;
     margin-top: 20px;
 }
-
 #Skills-nd H1 {
     font-family: 'Permanent Marker', cursive;
     font-size: 80px;
@@ -307,7 +262,6 @@ h2 b{
     margin-top: 120px;
     margin-left: 70px;
 }
-
 #Categories-nd h2 {
     font-family: 'Permanent Marker', cursive;
     font-size: 60px;
@@ -320,14 +274,12 @@ h2 b{
     margin-left: auto;
     padding: 40px;
 }
-
 #Categories-nd a :hover {
     background-color: #FBF2A3;
     color: #793f19;
     border: #793f19;
     border-style: dashed;
-    border-width: 10px;
-    
+    border-width: 10px; 
 }
 
 @media screen and (max-width: 768px) {
@@ -335,11 +287,9 @@ h2 b{
      font-size: 25px;
     gap: 35px;
  }
-
 .logo {
     margin-left: -20px;
 }
-
 .avatar img {
     width: 290px;
     height: auto;
@@ -351,12 +301,10 @@ h2 b{
     flex-direction: row;
     margin-top: 50px;
 }
-
 .text-left, .text-right {
   max-width: 125px;
   color: #793f19;
 }
-
 .text-left {
     margin-left: -70px;
 }
@@ -366,63 +314,50 @@ h2 b{
     margin-left: 240px;
     max-width: 150px;
 }
-
 h1 {
     font-size: 25px;
     font-weight: 700;
 }
-
 h2 {
     font-size: 18px;
 }
-
 #Charachteristics H1 {
     font-size: 40px;
     margin-left: 150px;
 }
-
 .swiper img {
     width: 300px;
 }
-
 .swiper p {
     font-size: 15px;
     max-width: 200px;
     margin: auto
 }
-
 .swiper-button-next {
     margin-right: 5px;
 }
-
 .swiper-button-prev {
     margin-left: 5px;
 }
-
 #Skills H1 {
     font-size: 50px;
     margin-left: 60px;
 }
-
 #grid img {
     width: 250px;
     height: auto;
     margin-left: -10px;
 }
-
 .app img {
     margin-top: -100px;
 }
-
 #Categories H1 {
     font-size: 50px;
     margin-left: 20px;
 }
-
 #Categories h2 {
     font-size: 30px;
 }
-
 #contact {
     align-items: baseline;
 }
@@ -431,7 +366,6 @@ h2 {
     width: 300px;
     margin-left: -3px;
 }
-
 #box h3 {
     font-size: 15px;
     margin-left: 165px;
@@ -442,7 +376,6 @@ h2 {
     max-width: 300px;
     padding-top: 65px;
 }
-
 /* nederlandse versie*/
 .avatar-nd img {
     width: 290px;
@@ -455,37 +388,30 @@ h2 {
     flex-direction: row;
     margin-top: 50px;
 }
-
 .text-left-nd, .text-right-nd {
   max-width: 125px;
   color: #793f19;
 }
-
 .text-left-nd {
     margin-left: -70px;
 }
-
 .text-right-nd {
     margin-top: -150px;
     margin-left: 250px;
     max-width: 150px;
 }
-
 #Charachteristics-nd H1 {
     font-size: 40px;
     margin-left: 150px;
 }
-
 #Skills-nd H1 {
     font-size: 50px;
     margin-left: 60px;
 }
-
 #Categories-nd H1 {
     font-size: 50px;
     margin-left: 100px;
 }
-
 #Categories-nd h2 {
     font-size: 30px;
 }
