@@ -357,12 +357,12 @@ h3 {
 }
 
 .text-left {
-    margin-left: -70px;
+    margin-left: 20px;
 }
 
 .text-right {
     margin-top: -150px;
-    margin-left: 250px;
+    margin-left: 350px;
     max-width: 150px;
 }
 
