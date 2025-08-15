@@ -48,7 +48,8 @@ a {
 
 .avatar img {
    align-items: center;
-   padding-right: 30px;
+   padding-right: 20px;
+  margin-left: -20px;
 }
 
 .nav-right {
@@ -84,7 +85,7 @@ a {
 }
 
 .text-right {
-     margin-top: 400px;
+     margin-top: 420px;
      margin-left: -400px;
      font-size: 25px;
 }
