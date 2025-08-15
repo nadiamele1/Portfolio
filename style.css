@@ -347,7 +347,6 @@ h3 {
     margin-right: 5px;
 }
 .intro-container {
-    justify-content: center;
     flex-direction: row;
     margin-top: 50px;
 }
@@ -358,7 +357,7 @@ h3 {
 }
 
 .text-left {
-    margin-left: 0px;
+    margin-left: 50px;
 }
 
 .text-right {
