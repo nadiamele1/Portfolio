@@ -366,7 +366,7 @@ h2 b{
 
 @media screen and (max-width: 390px) {
   .navbar {
-        font-size: 15px;
+        font-size: 25px;
         gap: 20px;
     }
   .logo {
@@ -374,13 +374,13 @@ h2 b{
     }
   
   .avatar img {
-    width: 150px;
+    width: 200px;
     height: auto;
     margin: auto;
    }
   
   .text-left, .text-right {
-  max-width: 75px;
+  max-width: 105px;
   color: #793f19;
   }
   
