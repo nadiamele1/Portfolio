@@ -1,9 +1,3 @@
-body {
-background-color: #FBF2A3;
-background-image: url(../images/Untitled_Artwork-1.png);
-background-size:auto;
-}
-
 body p {
 color: #FBF2A3;
 font-size: large;
@@ -16,11 +10,6 @@ body {
   color: #793f19;
   background-image: url(../images/Untitled_Artwork-1.png);
   background-size:auto;
-}
-
-body p {
-color: #FBF2A3;
-font-size: large;
 }
 
 .navbar {
