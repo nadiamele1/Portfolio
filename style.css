@@ -195,6 +195,13 @@ h2 b{
     font-weight: 700;
 }
 
+#Gridwerk h3 {
+  text-align: center;
+    margin: auto;
+    font-weight: 500px;
+    font-size: 25px;
+}
+
 #Gridwerk-ph {
     display: grid;
     grid-column: repeat(1fr,4);
@@ -448,7 +455,14 @@ h2 {
     height: auto;
 }
 
-h3 {
+#Gridwerk h3 {
+  text-align: center;
+    margin: auto;
+    font-weight: 500px;
+    font-size: 15px;
+}
+  
+#Gridwerk-ph h3 {
     text-align: center;
     margin: auto;
     font-weight: 500px;
