@@ -193,15 +193,6 @@ h2 b{
     font-weight: 700;
 }
 
-#Gridwerk h3 {
-    font-size: 25px;
-    color: #793f19;
-    font-weight: 700;
-    text-align: center;
-    margin-top: 70px;
-    font-family: Arial, sans-serif;
-}
-
 #Gridwerk-ph {
     display: grid;
     grid-column: repeat(1fr,4);
@@ -219,20 +210,11 @@ h2 b{
     grid-row: 2/4;
 }
 
-
-#Gridprojecten h3 {
-    font-size: 25px;
-    color: #793f19;
-    font-weight: 700;
-    text-align: center;
-    margin-top: 70px;
-    font-family: Arial, sans-serif;
-}
-
 h3 {
     text-align: center;
     margin: auto;
     font-weight: 500px;
+    font-size: 25px;
 }
 
 #contact {
