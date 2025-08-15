@@ -417,5 +417,22 @@ h2 b{
   .app img {
     margin-top: -100px;
   }
+
+  #contact img {
+    width: 200px;
+    margin-left: -3px;
+}
+
+#box h3 {
+    font-size: 10px;
+    margin-left: 165px;
+    margin-right: 5px;
+    margin-top: -225px;
+    padding-right: 50px;
+    padding-left: 50px;
+    max-width: 200px;
+    padding-top: 65px;
+}
+
 }
    
