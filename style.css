@@ -372,6 +372,35 @@ h2 b{
   .logo {
         margin-left: -2px;
     }
-
+  
+  .avatar img {
+    width: 150px;
+    height: auto;
+    margin: auto;
+   }
+  
+  .text-left, .text-right {
+  max-width: 75px;
+  color: #793f19;
+  }
+  
+  .text-left {
+    margin-left: -70px;
+  }
+  
+  .text-right {
+    margin-top: -150px;
+    margin-left: 240px;
+    max-width: 150px;
+  }
+  
+  h1 {
+    font-size: 15px;
+    font-weight: 700;
+  }
+  
+  h2 {
+    font-size: 10px;
+  }
 }
    
