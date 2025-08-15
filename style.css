@@ -365,9 +365,12 @@ h2 b{
 }
 
 @media screen and (max-width: 390px) {
-    .navbar {
+  .navbar {
         font-size: 15px;
         gap: 20px;
+    }
+  .logo {
+        margin-left: -2px;
     }
 
 }
