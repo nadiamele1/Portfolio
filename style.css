@@ -63,15 +63,16 @@ a {
   align-items: center;
   padding: 40px;
   flex-wrap: wrap;
+  margin-left: -20px;
 }
 
 .intro-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 40px; /* ruimte tussen items */
+  gap: 40px; 
   padding: 40px;
-  flex-wrap: wrap; /* zorgt dat het op mobiel onder elkaar valt */
+  flex-wrap: wrap; 
 }
 
 .text-left, .text-right {
